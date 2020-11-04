@@ -10,3 +10,6 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 In your README, create a subheading ## Summary Statistics on Suspension Coils, and write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+Deliverable 3
+There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt)
