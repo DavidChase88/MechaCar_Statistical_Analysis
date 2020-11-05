@@ -23,12 +23,9 @@ Lot 1 and Lot 2 have a mean and median equal to 1500 and a variance of 0.98 and 
 
 ## T-Tests on Suspension Coils
 
-Summary of the t-test results across all manufacturing lots and for each lot (5 pt)
+Summary of the t-test results:
 
-In your README, create a subheading ## Study Design: MechaCar vs Competition.
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+## Study Design: MechaCar vs Competition
+
+One statistical study we perform to quantify how MechaCar performs against the competition is safety rating. We would want to look at the safety ratings of the MechaCar vs the Competition. We ould want to look at ratings from independent agencies and ones marketed by each company. The null hypothesis stating that our safety rating is not different from the competition and the alternative hypothesis stating that it is different. We would want data from other competitors and then we would want to use the t-test. We would need the safety ratings of each companies car models.
+
