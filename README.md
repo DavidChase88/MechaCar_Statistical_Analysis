@@ -24,6 +24,8 @@ Lot 1 and Lot 2 have a mean and median equal to 1500 and a variance of 0.98 and 
 ## T-Tests on Suspension Coils
 
 Summary of the t-test results:
+### All Lot Summary
+![All_Lot_Summary](/Resources/All_Lot_Summary.png). 
 
 ## Study Design: MechaCar vs Competition
 
